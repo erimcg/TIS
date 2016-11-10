@@ -10,7 +10,8 @@ We're grateful to both Bridgwater College and Clarkson University for allowing u
 All files in this repository are released under the following license unless
 specified at the beginning of the file.
 
-Copyright &copy; 2016, Bridgewater College
+Copyright &copy; 2011-2013, Clarkson University
+Copyright &copy; 2013-2016, Bridgewater College
 <br />All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
