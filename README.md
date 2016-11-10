@@ -12,7 +12,7 @@ From the Matlab command line run
 tis
 ```
 
-More complete documentation will be forthcoming.
+More documentation will be forthcoming.
 
 ## License
 We're grateful to both Bridgwater College and Clarkson University for allowing us to release this software as open source.
