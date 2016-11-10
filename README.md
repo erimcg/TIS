@@ -7,9 +7,6 @@ Following my IC Fellowship, I was hired by Bridgwater College.  There, students 
 ## License
 We're grateful to both Bridgwater College and Clarkson University for allowing us to release this software as open source.
 
-All files in this repository are released under the following license unless
-specified at the beginning of the file.
-
 Copyright &copy; 2011-2013, Clarkson University<br />
 Copyright &copy; 2013-2016, Bridgewater College<br />
 All rights reserved.
