@@ -4,6 +4,16 @@ TIS is a thoracic signal biometric identification program written in matlab.  Th
 
 Following my IC Fellowship, I was hired by Bridgwater College.  There, students Tayseer O'Brien, Troy Soaper, and Dylan Tokotch helped enhanced the software with better algorithms and code rewrites.
 
+## Instructions
+
+From the Matlab command line run
+
+```
+tis
+```
+
+More complete documentation will be forthcoming.
+
 ## License
 We're grateful to both Bridgwater College and Clarkson University for allowing us to release this software as open source.
 
