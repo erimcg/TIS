@@ -14,7 +14,7 @@ The `.CVS File Delineation` setting specifies how the data is delineated in the 
 
 The `Sample Rate` option is used to specify the rate (samples per second) at which the input data was collected. 
 
-The '.CVS File Layout` fields identify the type of data in each of the columns in your dataset.  For example if LDV data appears in column 2 of your data files, enter 2 in the box next to the LDV label. 
+The `.CVS File Layout` fields identify the type of data in each of the columns in your dataset.  For example if LDV data appears in column 2 of your data files, enter 2 in the box next to the LDV label. 
 
 In the `Trial Selection` section, choose which trial files you'd like use for testing and training. 
 
