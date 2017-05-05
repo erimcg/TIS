@@ -5,8 +5,17 @@ Figure 23
 
 The `LDV Preprocessing Options` allow the user to alter the original LDV signals prior to computing feature sets for each subject. 
 
-The 'Chebyshev Filter option on the Downsample Method was ___. The Median Slide option is ______. (Add in sentence about why ECG doesn’t have? I had one but removed it) These options tell the software how to extract information based on the Downsample Rate. The Downsample Rate is set by the user and maintains the same function as it did for ECG. LDV signals maintains the same Checking Apply High Pass Filter will tell the software to  remove data that is not within a certain range of hertz. Checking Apply Trim Filter will remove corrupted information from where the LDV signal was downsampled. With LDV signal there tends to be spikes in the data that are a result of mechanical recordings. The laser may turn off intermediately. Remove Dropouts will remove these spikes. There are two options for a Peak Detection Alg, the Tokotch Method and the O’Brien Likelihood. The Tokotch Method is based on an algorithm created by Dr.Verne Leininger and Jose Corona (Note to self, check spelling) in 2015. while the O’Brien Likelihood uses a sliding window algorithm. (Take pictures of hidden menu and explain more) 
+The `Downsample Method` drop-down menu allows the user to choose between two different methods to down-sampling the data: 'Chebyshev Filter` or `Median Slide`.
 
+The 'Downsample Rate` setting specifies how many samples per second the software will use. This is helpful if the recording device collected data at a higer rate than needed.
+
+When `High Pass Filter` is selected, the signal is transform by removing lower frequency (less than 3 hertz) components from the signal.  
+
+`Apply Trim Filter` will cause a few samples at the ends of each segment to be remove.  This is usefull if down-sampling causes the tails of the segment to be corrupted.
+
+If `Remove Dropouts` is selected a despecking filter is applied to the signal. 
+
+There are two options for a 'Peak Detection Alg`: `Tokotch Method` and 'O’Brien Likelihood`. The Tokotch Method is based on an algorithm created by Dr.Verne Leininger and Jose Corona in 2015. while the O’Brien Likelihood method uses an iterative sliding window approach. 
 
 ![LDV Segmentation Options](images/fig24_ldv_segmentation_options.png) 
 Figure 24 
