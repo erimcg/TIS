@@ -34,8 +34,6 @@
 
 9. Appendix
 
-	1. [Acknowledgements](Acknowledgements.md)
+	1. [Contributors](Contributors.md)
 
-	2. [Contributors](Contributors.md)
-
-	3. [Open Source License](License.md)
+	2. [Open Source License](License.md)
