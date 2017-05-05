@@ -2,13 +2,15 @@
 
 ### [Introduction](Introduction.md)
 
-#### TIS Overview
+#### [Overview](Introduction.md/#overview]
 
-#### TIS Functionality
+#### [TIS Functionality](Introduction.md/#tis-functionality]
 
-#### TIS Requirements
+#### [System Requirements](Introduction.md/#system-requirements]
 
-### Running TIS
+#### [Running TIS](Introduction.md/#running-tis]
+
+### Setting UP TIS 
 
 #### Classification Settings
 
