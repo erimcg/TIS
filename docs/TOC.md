@@ -18,15 +18,15 @@
 
 5. [ECG Settings](ECG-Settings.md)
 
-	1. [ECG Preprocessing Settings](ECG-Settings.md/#ecg-preprocessing-settings)
+	1. [ECG Preprocessing Settings](ECG-Settings.md/#preprocessing-settings)
 
-	2. [ECG Feature Set Settings](ECG-Settings.md/#ecg-feature-set-settings)
+	2. [ECG Feature Set Settings](ECG-Settings.md/#feature-set-settings)
 
 6. [LDV Settings](LDV-Settings.md)
 
-	1. [LDV Preprocessing Settings](LDV-Settings.md/#ldv-preprocessing-settings)
+	1. [LDV Preprocessing Settings](LDV-Settings.md/#preprocessing-settings)
 
-	2. [LDV Feature Set Settings](LDV-Settings.md/#ldv-feature-set-settings)
+	2. [LDV Feature Set Settings](LDV-Settings.md/#feature-set-settings)
 
 7. [Plot Options](Plot-Options.md)
 
