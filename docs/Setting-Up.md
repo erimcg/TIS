@@ -17,7 +17,7 @@ After loading TIS, you will see a list of files and folders in the Current Folde
 ![Inactive Folders](images/fig3_inactive_folders.png)
 **Figure 3**
 
-To add these files to the path, press the icon labeled `Set path`. 
+To add these files to the path, press the icon labeled `Set path` located in the main toolbar. 
 
 ![Add to Path](images/fig4_add_to_path.png)
 **Figure 4**
