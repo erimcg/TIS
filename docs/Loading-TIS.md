@@ -41,4 +41,4 @@ Matlab will open the TIS Graphical User Interface (GUI) as shown in **Figure 7**
 
 You're now ready to setup TIS to calculate feature sets for your input data.
 
-[Next: Selecting the Model and Classifier](Model-Settings.md)
+[Next: Configuring the Model and Classifier Options](Model-Classifier-Settings.md)

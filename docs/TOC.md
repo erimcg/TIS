@@ -12,7 +12,7 @@
 
 2. [Installing and Loading TIS](Loading-TIS.md) 
 
-3. [Model Settings](Model-Settings.md)
+3. [Model and Classifier Settings](Model-Classifier-Settings.md)
 
 4. [Input Settings](Input-Settings.md)
 
