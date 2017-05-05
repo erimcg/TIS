@@ -28,8 +28,10 @@
 
 	2. [LDV Feature Set Settings](LDV-Settings.md/#ldv-feature-set-settings)
 
-7. [Acknowledgements](Acknowledgements.md)
+7. [Plot Options](Plot-Options.md)
 
-8. [Contributors](Contributors.md)
+8. [Acknowledgements](Acknowledgements.md)
 
-9. [Open Source License](License.md)
+9. [Contributors](Contributors.md)
+
+10. [Open Source License](License.md)
