@@ -53,8 +53,9 @@ The `Closest to Mean` option calculates a nominal heartbeat (mean) for each subj
 The 'Spectrogram Options' section allows the user to set the parameters for Matlab's [spectrogram](https://www.mathworks.com/help/signal/ref/spectrogram.html?requestedDomain=www.mathworks.com) function. 
 
 ![Feature Selection Options](images/fig20_ecg_feature_selection_options.png) **Figure 21** 
+
 TIS computes a spectrogram for each segment that is used for training and testing. The `Feature Selection Options` allow the user to restrict which bins of the spectrogram are included in the feature set for the user. 
 
-The `Max Frequency Bin (Hz)` setting restricts TIS from using bins with frequencies higer than the value entered. The `Number of Selected Bins` field specifies how many bins to use when computing the feature set for a subject.  The values of all other bins are set to 0. 
 
+The `Max Frequency Bin (Hz)` setting restricts TIS from using bins with frequencies higer than the value entered. The `Number of Selected Bins` field specifies how many bins to use when computing the feature set for a subject.  The values of all other bins are set to 0. 
 [Next: Set Plot Options](Plot-Options.md) 

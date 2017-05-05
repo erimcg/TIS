@@ -3,7 +3,9 @@
 ![LDV Preprocessing Options](images/fig23_ldv_preprocessing_options.png) 
 Figure 23
 
-The `LDV Preprocessing Options` allow the user to alter the original LDV signals prior to computing feature sets for each subject. 
+### Preprocessing Settings
+
+The LDV `Preprocessing Options` allow the user to alter the original LDV signals prior to computing feature sets for each subject. 
 
 The `Downsample Method` drop-down menu allows the user to choose between two different methods to down-sampling the data: 'Chebyshev Filter` or `Median Slide`.
 
@@ -19,21 +21,37 @@ There are two options for a 'Peak Detection Alg`: `Tokotch Method` and 'O’Brie
 
 ![LDV Segmentation Options](images/fig24_ldv_segmentation_options.png) 
 Figure 24 
+
+### Segmentation Options 
  
-The second option on the PCG menu is Segmentation Options. Under this the user can define what will be used as a PCG signal (heartbeat?) 
-(Take pictures of hidden menu and explain more) 
-(Picture of PCG signal?)
-The Fixed Lengths Before and After Peak means that a set number of samples will be taken before and after the peak. Fixed Length Beginning From Peak means that a user set number of samples will be taken after a peak is found. Peak to Peak allows the user to define how many samples will be taken as the heartbeat between two peaks. This gives the user a fixed number of samples regardless of their subject’s heart rate. The third option is Feature Set Options. The user can use these settings to determine how the signal will be used.
+The second option on the PCG menu is `Segmentation Options`.
  
+![]()
+Figure XXX
+
+The Fixed Lengths Before and After Peak means that a set number of samples will be taken before and after the peak. 
+
+Fixed Length Beginning From Peak means that a user set number of samples will be taken after a peak is found. 
+
+Peak to Peak allows the user to define how many samples will be taken as the heartbeat between two peaks. This gives the user a fixed number of samples regardless of their subject’s heart rate. 
+
+### Feature Set Settings
+
+The third LDV submenu is `Feature Set Options`. 
+
 ![LDV Spectrogram Options](images/fig25_ldv_spectrogram_options.png) 
 Figure 25 
 
-The Laser Doppler Vibrometer picks up the vibrations made by the movement of the skin which is caused by the pulse. If the device you are using to record the PCG signal is recording the velocity measure then you can incorporate the displacement signal by checking the box next to Use Displacement Signal. Spectrogram options creates a feature set for the PCG signal. It uses the same algorithms as the ECG Spectrogram Options. It uses a sliding window method to determine spectrograms. Set the Window Length (samples) to tell the algorithm to compute X amount of samples within a step. Setting the Window Step (samples) will tell the algorithm to move forward X amount and make computations. The Window Type determines an argumentation to DRT. Hamming and Hanning is maintain similar functions. Train and Test Options determine how many and which beats (?) the classifier will train and test on. Set the Number of Segments Per Training Subject. Set the Number of Segments Per Test Subject. It was found that less heartbeats were needed for PCG to train and test the classifier. The Selection Modes maintain the same function as they did for the ECG signal, these options allow to determine how to select bins for training and testing. 
+It is assumed that the LDV signal is a measurement of velocity. By checking `Use Displacement Signal`, the signal is converted to displacement using integration. 
 
-There are two methods for selecting bins, the goal is to find which bins have the most information in them. Static and Dynamic. If Static is selected then the software will use the same amount of spectrograms for every subject. Choosing Dynamic picks which spectrograms from each individual have the most information. 
-Max Frequency Bin (Hz) is ____. Entering a value into Number of Selection Bins, will tell the software how many bins to use. Threshold is greyed out because ____.
+The 'Spectrogram Options' section allows the user to set the parameters for Matlab's [spectrogram](https://www.mathworks.com/help/signal/ref/spectrogram.html?requestedDomain=www.mathworks.com) function. 
 
-What is the difference between the Feature set options and the selection mode?
+The `Train & Test Options` determine how many and which bins will be used to compute the feature sets for a subject. 
+
+There are two `Bin Selection Methods`: `Static` and `Dynamic`. If Static is selected then ... (TODO)
+If `Dynamic` is picked ... (TODO)
+
+The `Max Frequency Bin (Hz)` setting restricts TIS from using bins with frequencies higer than the value entered. The `Number of Selected Bins` field specifies how many bins to use when computing the feature set for a subject.  The values of all other bins are set to 0. 
 
 [Next: Set Plot Options](Plot-Options.md)
  
