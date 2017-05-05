@@ -10,7 +10,7 @@
 
 	4. [Running TIS](Introduction.md/#running-tis)
 
-2. [Loading TIS](Loading-TIS.md) 
+2. [Installing and Loading TIS](Loading-TIS.md) 
 
 3. [Selecting a Classifier](Selecting-Classifier.md)
 
