@@ -16,17 +16,17 @@
 
 ### [Selecting Input Data](Selecting-Input-Data.md)
 
-### [Using TIS with ECG Signals] (Using-ECG-Signals.md)
+### [Using TIS with ECG Signals](Using-ECG-Signals.md)
 
-* ECG Preprocessing Settings (Using-ECG-signals.md/#ecg-preprocessing-settings)
+* [ECG Preprocessing Settings](Using-ECG-signals.md/#ecg-preprocessing-settings)
 
-* ECG Feature Set Settings (Using-ECG-Signals.md/#ecg-feature-set-settings)
+* [ECG Feature Set Settings](Using-ECG-Signals.md/#ecg-feature-set-settings)
 
-### [Using TIS with LDV Signals] (Using-LDV-Signals.md)
+### [Using TIS with LDV Signals](Using-LDV-Signals.md)
 
-* LDV Preprocessing Settings (Using-LDV-Signals.md/#ldv-preprocessing-settings)
+* [LDV Preprocessing Settings](Using-LDV-Signals.md/#ldv-preprocessing-settings)
 
-* LDV Feature Set Settings (Using-LDV-Signals.md/#ldv-feature-set-settings)
+* [LDV Feature Set Settings](Using-LDV-Signals.md/#ldv-feature-set-settings)
 
 ### [Acknowledgements](Acknowledgements.md)
 
