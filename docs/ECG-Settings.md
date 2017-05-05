@@ -16,6 +16,8 @@ Apply 180 Hz Notch Filter means (skipped).
 
 ![ECG Signal](images/fig15_ecg_signal.png) **Figure 15**
 
+### Feature Set Settings
+
 Feature Set Options are the second option under the ECG icon in the menu bar. The 
 Segmentation Options allow the user to segment their signals into individual heartbeats. 
 Segments per Beat is (Skipped). Segmentation Boundaries allow the user to decide between 
