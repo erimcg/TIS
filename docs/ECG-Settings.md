@@ -57,4 +57,4 @@ TIS computes a spectrogram for each segment that is used for training and testin
 
 The `Max Frequency Bin (Hz)` setting restricts TIS from using bins with frequencies higer than the value entered. The `Number of Selected Bins` field specifies how many bins to use when computing the feature set for a subject.  The values of all other bins are set to 0. 
 
-
+[Next: 

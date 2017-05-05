@@ -21,10 +21,11 @@ There are six steps when using TIS.
 1. Install and Load TIS
 2. Configure the model and classifier settings
 3. Choose the training and testing input data 
-4. Configure the preprocessing and feature set settings. 
-5. Calculate the training feature sets 
-6. Calculate the testing feature sets 
-7. Classify the testing feature sets against the training feature sets 
+4. Configure the preprocessing and feature set settings.
+5. Set plot options to visualize process 
+6. Calculate the training feature sets 
+7. Calculate the testing feature sets 
+8. Classify the testing feature sets against the training feature sets 
 
 Details for each of these steps are discussed in other pages of this document.
 

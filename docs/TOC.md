@@ -30,8 +30,10 @@
 
 7. [Plot Options](Plot-Options.md)
 
-8. [Acknowledgements](Acknowledgements.md)
+8. [Training and Testing the Classifier](Train-Test.md)
 
-9. [Contributors](Contributors.md)
+9. [Acknowledgements](Acknowledgements.md)
 
-10. [Open Source License](License.md)
+10. [Contributors](Contributors.md)
+
+11. [Open Source License](License.md)
