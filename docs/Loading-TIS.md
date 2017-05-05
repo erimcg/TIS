@@ -1,4 +1,4 @@
-### Installing and Setting Up TIS
+### Installing and Loading TIS
 
 You can download the TIS software from [here](http://github.com/erimcg/tis).
 
