@@ -21,4 +21,4 @@ In the `Trial Selection` section, choose which trial files you'd like use for te
 ![Trail Selection](images/fig12_trial_selection.png) 
 **Figure 12**
 
-
+[Next: Configuring the ECG Settings](ECG-Settings.md)
