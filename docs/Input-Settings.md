@@ -1,6 +1,6 @@
 ## Configuring the Input Settings 
 
-When you select `IO` in the main menu, a submenu appears allowing you to select Training Options or Testing Options. Each of the submenus displays the same options.  You'll need to choose the Training Options menu to configure TIS to work with your training data, and then choose the Testing Options menu to configure TIS to work with your testing data.  
+When you select `IO` in the main menu, a submenu appears allowing you to select `Training Options` or `Testing Options`. Each of the submenus displays the same options.  You'll need to choose the Training Options menu to configure TIS to work with your training data, and then choose the Testing Options menu to configure TIS to work with your testing data.  
 
 ![Training and Testing Sub-Menu](images/fig10_menu_io.png) 
 **Figure 10**
