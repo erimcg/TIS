@@ -2,13 +2,13 @@
 
 1. [Introduction](Introduction.md)
 
-* [Overview](Introduction.md/#overview)
+	1.1 [Overview](Introduction.md/#overview)
 
-* [TIS Functionality](Introduction.md/#tis-functionality)
+	1.2 [TIS Functionality](Introduction.md/#tis-functionality)
 
-* [System Requirements](Introduction.md/#system-requirements)
+	1.3 [System Requirements](Introduction.md/#system-requirements)
 
-* [Running TIS](Introduction.md/#running-tis)
+	1.4 [Running TIS](Introduction.md/#running-tis)
 
 2. [Loading TIS](Loading-TIS.md) 
 
@@ -18,15 +18,15 @@
 
 5. [Using TIS with ECG Signals](Using-ECG-Signals.md)
 
-* [ECG Preprocessing Settings](Using-ECG-signals.md/#ecg-preprocessing-settings)
+	5.1 [ECG Preprocessing Settings](Using-ECG-signals.md/#ecg-preprocessing-settings)
 
-* [ECG Feature Set Settings](Using-ECG-Signals.md/#ecg-feature-set-settings)
+	5.2 [ECG Feature Set Settings](Using-ECG-Signals.md/#ecg-feature-set-settings)
 
 6. [Using TIS with LDV Signals](Using-LDV-Signals.md)
 
-* [LDV Preprocessing Settings](Using-LDV-Signals.md/#ldv-preprocessing-settings)
+	6.1 [LDV Preprocessing Settings](Using-LDV-Signals.md/#ldv-preprocessing-settings)
 
-* [LDV Feature Set Settings](Using-LDV-Signals.md/#ldv-feature-set-settings)
+	6.2 [LDV Feature Set Settings](Using-LDV-Signals.md/#ldv-feature-set-settings)
 
 7. [Acknowledgements](Acknowledgements.md)
 
