@@ -1,6 +1,6 @@
 ## Configuring the ECG Settings 
 
-![]()  
+![ECG Menu Option](images/fig13_menu_ecg.png)  
 **Figure 13**
 
 ### Preprocessing Settings
@@ -9,14 +9,14 @@ Click on Preprocessing Options under the ECG menu to adjust the settings for the
 signal. The Downsample Rate determines how many samples per second the software will use. The extra information will be cut off. Set the Downsample Rate for your data. Window Size 
 means (skipped).
 
-![]()  
+![ECG Preprocessing Options](images/fig14_ecg_preprocessing.png)  
 **Figure 14**
 
 Figure 15 shows an example of an ECG signal. When Apply Trim Filter is selected the data 
 that was corrupted during downsampling will be cut off. This is shown by the red lines. 
 Apply 180 Hz Notch Filter means (skipped).
 
-![]()  
+![ECG Signal](images/fig15_ecg_signal.png)  
 **Figure 15**
 
 Feature Set Options are the second option under the ECG icon in the menu bar. The 
@@ -26,7 +26,7 @@ two algorithms to determine heartbeats from the samples. Fixed Lengths Relative 
 uses an algorithm to find the R Peak. After finding it, the algorithm selects points 
 (decimals?) before and after the peak. This is used as a heartbeat (See Figure 16).
 
-![]()  
+![PQRST Landmarks](images/fig16_pqrst.png)  
 **Figure 16** 
 
 Use the Before Primary Peak Length (samples) field to determine how many samples before 
