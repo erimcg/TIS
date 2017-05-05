@@ -26,6 +26,8 @@
 
 	1. [LDV Preprocessing Settings](LDV-Settings.md/#preprocessing-settings)
 
+	2. [LDV Segmentation Settings](LDV-Settings.md/#segmentation-settings)
+
 	2. [LDV Feature Set Settings](LDV-Settings.md/#feature-set-settings)
 
 7. [Plot Options](Plot-Options.md)

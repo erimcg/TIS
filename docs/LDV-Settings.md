@@ -22,9 +22,9 @@ There are two options for a 'Peak Detection Alg`: `Tokotch Method` and 'O’Brie
 ![LDV Segmentation Options](images/fig24_ldv_segmentation_options.png) 
 Figure 24 
 
-### Segmentation Options 
+### Segmentation Settings 
  
-The second option on the PCG menu is `Segmentation Options`.
+The second option on the PCG menu is `Segmentation Settings`.
  
 ![]()
 Figure XXX
