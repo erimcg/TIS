@@ -10,6 +10,10 @@ From the Matlab command line run
 tis
 ```
 
+## Documentation
+
+Documentatin can be found [here](/docs/TOC.md)
+
 ## References
 
 [1] M. Chen; J.A. O'Sullivan; N. Singla; E.J. Sirevaag; S.D. Kristjansson; P.H. Lai;
