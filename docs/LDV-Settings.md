@@ -24,4 +24,7 @@ The Laser Doppler Vibrometer picks up the vibrations made by the movement of the
 There are two methods for selecting bins, the goal is to find which bins have the most information in them. Static and Dynamic. If Static is selected then the software will use the same amount of spectrograms for every subject. Choosing Dynamic picks which spectrograms from each individual have the most information. 
 Max Frequency Bin (Hz) is ____. Entering a value into Number of Selection Bins, will tell the software how many bins to use. Threshold is greyed out because ____.
 
-What is the difference between the Feature set options and the selection mode? 
+What is the difference between the Feature set options and the selection mode?
+
+[Next: Set Plot Options](Plot-Options.md)
+ 
