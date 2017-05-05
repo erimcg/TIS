@@ -26,14 +26,14 @@ two algorithms to determine heartbeats from the samples. Fixed Lengths Relative 
 uses an algorithm to find the R Peak. After finding it, the algorithm selects points 
 (decimals?) before and after the peak. This is used as a heartbeat (See Figure 16).
 
-![PQRST Landmarks](images/fig16_pqrst.png)  
+![PQRST Landmarks](images/fig16_ecg_pqrst.png)  
 **Figure 16** 
 
 Use the Before Primary Peak Length (samples) field to determine how many samples before 
 the R Peak should be selected. The number of samples after the R Peak can be indicated 
 using the After Primary Peak Length (samples) field. 
 
-![]()  
+![Segmentation Options](images/fig17_ecg_segmentation_options.png)  
 Figure 17
 
 The second option is under Segmentation Boundaries is Peak to Peak. The algorithms finds 
@@ -43,7 +43,7 @@ beat will always be constant. These values were found to work the best.
 Train and Test Data Options allow the user to choose how many heartbeats are needed for 
 each subject in order to create (define?) a feature set.
 
-![]()  
+![Train and Test Options](images/fig18_ecg_train_and_test_options.png)  
 Figure 18
 
 The Number of Segments per Training Subject determine how many heartbeats are needed to 
@@ -52,7 +52,7 @@ Test Subject determine how many heartbeats are needed to test the classifier. Th
 of Segments Per Test is (skipped). Segment Selection Options determine which segments as 
 indicated by the user will be used to test and train the classifier. 
 
-![]()  
+![Segment Selection](images/fig19_ecg_segment_selection.png)  
 Figure 19
 
 Random will select beats from various sections of data. The Consecutive option will pick 
@@ -62,7 +62,7 @@ asks the user if they would like to use it (Figure X, take Pic).
 The Closest to Mean option an algorithm to calculate the average heartbeat for each 
 subject then selects twelve heartbeats that are closest to the overall average to use. 
 
-![]()  
+![Feature Selection Options](images/fig20_ecg_feature_selection_options.png)  
 Figure 20 
 
 According to the Law of Blank. Any signal can be broken down into individual waves that 
@@ -77,7 +77,7 @@ with the whole. Enter a number into the Max Frequency Bin (Hz) to tell the softw
 ignore any component of the decomposed signal that has a higher frequency than what is 
 set in the field. 
 
-![]()  
+![Spectrogram Options](images/fig21_ecg_spectrogram_options.png)  
 Figure 21
 
 The algorithm uses a running window approach meaning it makes computations then moves 
@@ -91,7 +91,7 @@ Rows 20-defined by step
 
 Window Type is an argument to the DRT. Hamming and Hanning maintain the same function. 
 
-![]()  
+![Feature Selection Options](images/fig22_ecg_feature_selection_options.png)  
 Figure 22
 
 Use the Feature Selection Options to determine how features will be selected. The number 
