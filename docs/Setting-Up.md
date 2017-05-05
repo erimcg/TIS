@@ -1,6 +1,6 @@
 #### Installing and Setting Up TIS
 
-**1. Install and set up TIS **
+1. **Install and set up TIS **
 2. Configure the settings for your training set 
 3. Calculate the training feature sets 
 4. Modify the setting for your testing set (optional) 

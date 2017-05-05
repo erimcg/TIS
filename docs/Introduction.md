@@ -1,6 +1,6 @@
-## Section One
+## Introduction 
 
-### TIS Overview
+### Overview
 	
 Biometrics are physical or biological traits that can be used to identify a subject. A biometric identification system uses biometric information to identify a subject. A thoracic identification system uses signals from the thoracic cavity, which encompasses everything inside the ribcage to identify a subject. A homogenous identification system trains and tests the classifier using the same types of data. For example using ECG signals to train and test the classifier. A heterogenous system uses one type of signal to train the classifier and another type of signal to test it. For example, using PCG signals to train and ECG signals to test. TIS (Thoracic Identification System) is a homogenous thoracic biometric identification system.
  
