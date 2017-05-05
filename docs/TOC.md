@@ -32,8 +32,10 @@
 
 8. [Training and Testing the Classifier](Train-Test.md)
 
-9. [Acknowledgements](Acknowledgements.md)
+9. Appendix
 
-10. [Contributors](Contributors.md)
+	1. [Acknowledgements](Acknowledgements.md)
 
-11. [Open Source License](License.md)
+	2. [Contributors](Contributors.md)
+
+	3. [Open Source License](License.md)
