@@ -19,4 +19,6 @@ Documentatin can be found [here](/docs/TOC.md)
 [1] M. Chen; J.A. O'Sullivan; N. Singla; E.J. Sirevaag; S.D. Kristjansson; P.H. Lai;
 A.D. Kaplan; J.W. Rohrbaugh;, "Laser Doppler Vibrometry measures of Physiology Function:
 Evaluation of Biometric Capabilities," IEEE
-Transactions on Information Forensics and Security, v.5., no.3, pp.449-460, 2010. 
+Transactions on Information Forensics and Security, v.5., no.3, pp.449-460, 2010.
+
+[2] Add SVM reference 
