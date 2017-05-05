@@ -12,21 +12,21 @@
 
 2. [Installing and Loading TIS](Loading-TIS.md) 
 
-3. [Selecting a Classifier](Selecting-Classifier.md)
+3. [Model Settings](Model-Settings.md)
 
-4. [Selecting Input Data](Selecting-Input-Data.md)
+4. [Input Settings](Input-Settings.md)
 
-5. [Using TIS with ECG Signals](Using-ECG-Signals.md)
+5. [ECG Settings](ECG-Settings.md)
 
-	1. [ECG Preprocessing Settings](Using-ECG-signals.md/#ecg-preprocessing-settings)
+	1. [ECG Preprocessing Settings](ECG-Settings.md/#ecg-preprocessing-settings)
 
-	2. [ECG Feature Set Settings](Using-ECG-Signals.md/#ecg-feature-set-settings)
+	2. [ECG Feature Set Settings](ECG-Settings.md/#ecg-feature-set-settings)
 
-6. [Using TIS with LDV Signals](Using-LDV-Signals.md)
+6. [LDV Settings](LDV-Settings.md)
 
-	1. [LDV Preprocessing Settings](Using-LDV-Signals.md/#ldv-preprocessing-settings)
+	1. [LDV Preprocessing Settings](LDV-Settings.md/#ldv-preprocessing-settings)
 
-	2. [LDV Feature Set Settings](Using-LDV-Signals.md/#ldv-feature-set-settings)
+	2. [LDV Feature Set Settings](LDV-Settings.md/#ldv-feature-set-settings)
 
 7. [Acknowledgements](Acknowledgements.md)
 
