@@ -2,13 +2,13 @@
 
 1. [Introduction](Introduction.md)
 
-	1.1 [Overview](Introduction.md/#overview)
+	[Overview](Introduction.md/#overview)
 
-	1.2 [TIS Functionality](Introduction.md/#tis-functionality)
+	[TIS Functionality](Introduction.md/#tis-functionality)
 
-	1.3 [System Requirements](Introduction.md/#system-requirements)
+	[System Requirements](Introduction.md/#system-requirements)
 
-	1.4 [Running TIS](Introduction.md/#running-tis)
+	[Running TIS](Introduction.md/#running-tis)
 
 2. [Loading TIS](Loading-TIS.md) 
 
