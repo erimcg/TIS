@@ -10,24 +10,26 @@
 
 * [Running TIS](Introduction.md/#running-tis)
 
-### Setting UP TIS 
+### [Loading TIS](Loading-TIS.md) 
 
-#### Classification Settings
+### [Selecting a Classifier](Selecting-Classifier.md)
 
-#### Testing Input Settings
+### [Selecting Input Data](Selecting-Input-Data.md)
 
-#### Training Input Settings
+### [Using TIS with ECG Signals] (Using-ECG-Signals.md)
 
-#### ECG Preprocessing Settings
+* ECG Preprocessing Settings (Using-ECG-signals.md/#ecg-preprocessing-settings)
 
-#### ECG Feature Set Settings
+* ECG Feature Set Settings (Using-ECG-Signals.md/#ecg-feature-set-settings)
 
-#### LDV Preprocessing Settings
+### [Using TIS with LDV Signals] (Using-LDV-Signals.md)
 
-#### LDV Feature Set Settings
+* LDV Preprocessing Settings (Using-LDV-Signals.md/#ldv-preprocessing-settings)
 
-### Acknowledgements
+* LDV Feature Set Settings (Using-LDV-Signals.md/#ldv-feature-set-settings)
 
-### Contributors
+### [Acknowledgements](Acknowledgements.md)
 
-### Open Source License
+### [Contributors](Contributors.md)
+
+### [Open Source License](License.md)
