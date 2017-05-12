@@ -7,13 +7,13 @@ Figure 23
 
 The LDV `Preprocessing Options` allow the user to alter the original LDV signals prior to computing feature sets for each subject. 
 
-The `Downsample Method` drop-down menu allows the user to choose between two different methods to down-sampling the data: 'Chebyshev Filter` or `Median Slide`.
+The `Downsample Method` drop-down menu allows the user to choose between two different methods of down-sampling the data: 'Chebyshev Filter` or `Median Slide`.
 
 The 'Downsample Rate` setting specifies how many samples per second the software will use. This is helpful if the recording device collected data at a higer rate than needed.
 
-When `High Pass Filter` is selected, the signal is transform by removing lower frequency (less than 3 hertz) components from the signal.  
+When `High Pass Filter` is selected, the signal is transformed by removing lower frequency (less than 3 hertz) components from the signal.  
 
-`Apply Trim Filter` will cause a few samples at the ends of each segment to be remove.  This is usefull if down-sampling causes the tails of the segment to be corrupted.
+`Apply Trim Filter` will cause a few samples at the ends of each segment to be removed.  This is usefull if down-sampling causes the tails of the segment to be corrupted.
 
 If `Remove Dropouts` is selected a despecking filter is applied to the signal. 
 
@@ -29,7 +29,7 @@ The second option on the PCG menu is `Segmentation Settings`.
 ![]()
 Figure XXX
 
-The Fixed Lengths Before and After Peak means that a set number of samples will be taken before and after the peak. 
+Fixed Lengths Before and After Peak means that a set number of samples will be taken before and after the peak. 
 
 Fixed Length Beginning From Peak means that a user set number of samples will be taken after a peak is found. 
 
