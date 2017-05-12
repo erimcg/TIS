@@ -10,9 +10,17 @@ TIS requires two data sets, a training dataset and a testing dataset. This softw
  
 ### System Requirements
 
-For users to use TIS they must have Matlab R2015 or later installed on the host machine. In addition, the DSP system and signal processing toolboxes must be available in Matlab.  The software can be downloaded [here](http://github.com/erimcg/TIS). 
+For users to use TIS they must have Matlab R2015 or later installed on the host machine. In addition, the DSP system and signal processing toolboxes must be available in Matlab. 
 
-The software works on the assumption that the user’s data is structures in the same way that the data from the original TIS experiment was taken. For two sets of data there should be two different directories. Within these directories there needs to be a separate file for each subject, within these files the data should be sectioned out.
+### Data Requirements
+
+The software works on the assumption that each recording for a subject is stored in a separate comma or tab delineated file where each column holds sampled data for a single modality (e.g. electro-cardiogram, phono-cardiogram, pulse). The order of the columns does not matter and additional data (e.g. timestamps) can be stored in other columns. 
+
+It is assumed that the recordings are organized in the file system as shown in Figure 1 below.  The top-level folder should contain one folder for each subject. Each subject folder should contain a single folder to hold the recordings. The folder that contains the recordings should contain between 1 and 12 files. 
+
+In Figure 1, the top-level folder is named Session 1, which contains a single subject folder named 0240388. The recordings are in a subfolder named 150710 indicating the date on which the recordings were taken. During the recording session on October 7, 2015 (12) recordings were taken and stored in separate csv files.  
+
+![Data Organization](images/fig0_data_organization.png) **Figure 1**
 
 ### Running TIS
 
