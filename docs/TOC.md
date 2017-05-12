@@ -8,9 +8,17 @@
 
 	3. [System Requirements](Introduction.md/#system-requirements)
 
-	4. [Running TIS](Introduction.md/#running-tis)
+	4. [Data Requirements](Introduction.md/#data-requirements)
+	
+	5. [Running TIS](Introduction.md/#running-tis)
 
-2. [Installing and Loading TIS](Loading-TIS.md) 
+2. [Installing and Loading, and Running TIS](Loading-TIS.md) 
+
+	1. [Installing TIS](Loading-TIS.md/#installing-tis)
+
+	2. [Loading TIS](Loading-TIS.md/#loading-tis)
+
+	3. [Running TIS](Running-TIS.md/#running-tis)
 
 3. [Model and Classifier Settings](Model-Classifier-Settings.md)
 
