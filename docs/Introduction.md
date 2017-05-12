@@ -27,6 +27,4 @@ There are six steps when using TIS.
 7. Calculate the testing feature sets 
 8. Classify the testing feature sets against the training feature sets 
 
-Details for each of these steps are discussed in other pages of this document.
-
 [Next: Installing and Loading TIS](Loading-TIS.md)
