@@ -1,6 +1,10 @@
-### Installing and Loading TIS
+## Installing, Loading and Running TIS
+
+### Installing TIS
 
 You can download the TIS software from [here](http://github.com/erimcg/tis).
+
+### Loading TIS
 
 To load the TIS software, open Matlab and click on the `Browse for folder` icon that is shown in **Figure 1.** 
 
@@ -28,6 +32,8 @@ When the dialogue box opens, click `Add with Subfolders…`, then select the con
 **Figure 5**
  
 Click `Save` to save the files and folders to the Matlab path and press `Close` to exit the dialog box to return to Matlab. The previously grey areas should be black. 
+
+### Running TIS
 
 To run TIS, type `TIS` into the Command Window and press `Enter` as shown in **Figure 6.** 
 
