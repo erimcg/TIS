@@ -12,7 +12,7 @@ Next, choose the folder where the TIS software was saved and press `Select Folde
 ![Choose TIS Location](images/fig2_choose_tis_loc.png)
  **Figure 2**
 
-After loading TIS, you will see a list of files and folders in the Current Folder list on the side bar. If some of the folders are greyed out then add these files and folders to the Matlab *path*.
+After loading TIS, you will see a list of files and folders in the Current Folder list on the side bar. If some of the folders are greyed out you'll need to add these files and folders to the Matlab *path* as discussed below.
  
 ![Inactive Folders](images/fig3_inactive_folders.png)
 **Figure 3**
