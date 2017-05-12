@@ -10,7 +10,7 @@ TIS requires two data sets, a training dataset and a testing dataset. This softw
  
 ### System Requirements
 
-For users to use TIS they must have MatlabR 2015 or later installed on the host machine. In addition, the DSP system and signal processing toolboxes must be available in Matlab.  The software can be downloaded [here](http://github.com/erimcg/TIS). 
+For users to use TIS they must have Matlab R2015 or later installed on the host machine. In addition, the DSP system and signal processing toolboxes must be available in Matlab.  The software can be downloaded [here](http://github.com/erimcg/TIS). 
 
 The software works on the assumption that the user’s data is structures in the same way that the data from the original TIS experiment was taken. For two sets of data there should be two different directories. Within these directories there needs to be a separate file for each subject, within these files the data should be sectioned out.
 
