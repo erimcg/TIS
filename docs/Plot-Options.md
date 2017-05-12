@@ -48,9 +48,9 @@ Plot Train and Test Data shows the actual feature set. This shows the bins that 
 After calculating the training and testing features, press calculate and return to the command window in Matlab. This is where the software will give the identification rate. **Figure 35** shows whether each subject was a true or false match. The number following the rank_k_counts shows how many subjects were correctly matched at the first rank. **Figure 36** shows the rate of identification at each rank.
 
 ![Plot Results](images/fig36_plot_results.png)
-Figure 36
+**Figure 36**
 
 ![Plot Rank](images/fig37_plot_rank.png)
-Figure 37
+**Figure 37**
 
 [Next: Train and Test the Classifier](Train-Test.md)
