@@ -2,11 +2,11 @@
 
 ### Overview
 	
-Biometrics are physical or biological traits that can be used to identify a subject. A biometric identification system uses biometric information to identify a subject. A thoracic identification system uses signals from the thoracic cavity, which encompasses everything inside the ribcage to identify a subject. A homogenous identification system trains and tests the classifier using the same types of data. For example using ECG signals to train and test the classifier. A heterogenous system uses one type of signal to train the classifier and another type of signal to test it. For example, using PCG signals to train and ECG signals to test. TIS (Thoracic Identification System) is a homogenous thoracic biometric identification system.
+Biometrics are physical or biological traits that can be used to identify a subject. A biometric identification system uses biometric information to identify a subject. A thoracic identification system uses signals from the thoracic cavity, which encompasses everything inside the ribcage to identify a subject. A homogenous identification system trains and tests the classifier using the same types of data. For example, using ECG signals to train and test the classifier. A heterogenous system uses one type of signal to train the classifier and another type of signal to test it. For example, using PCG signals to train and ECG signals to test. TIS (Thoracic Identification System) is a homogenous thoracic biometric identification system.
  
 ### TIS Functionality
 
-TIS requires two data set, a training dataset and a testing data set.  This software attempts to map individuals in a testing dataset to individuals in a training dataset.  IT computes a feature set of each subject in each set. It then attempts to match a feature set from the testing dataset with a feature set in the training dataset using a classifier. 
+TIS requires two data sets, a training dataset and a testing dataset. This software attempts to map individuals in a testing dataset to individuals in a training dataset.  It computes a feature set of each subject in each set. It then attempts to match a feature set from the testing dataset with a feature set in the training dataset using a classifier. 
  
 ### System Requirements
 
