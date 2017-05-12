@@ -1,6 +1,6 @@
 ## Plot Options
 
-![Plot Options Menu](images/fig26_menu_plot_options.png) Figure 26
+![Plot Options Menu](images/fig26_menu_plot_options.png) **Figure 26**
 
 While TIS is computing feature sets and training and testing the classifiers, TIS can display various plots.  To turn these plots on and off choose Plot Options from the main menu.  
 
