@@ -4,6 +4,8 @@
 
 You can download the TIS software from [here](http://github.com/erimcg/tis).
 
+If you intend on using LIBSVM to classify, you'll need to install the Matlab version of LIBSVM.  The code and installation instructions can be found ![here](https://github.com/cjlin1/libsvm/tree/master/matlab).
+
 ### Loading TIS
 
 To load the TIS software, open Matlab and click on the `Browse for folder` icon that is shown in **Figure 1.** 
