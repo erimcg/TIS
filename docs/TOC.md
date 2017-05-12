@@ -18,7 +18,7 @@
 
 	2. [Loading TIS](Loading-TIS.md/#loading-tis)
 
-	3. [Running TIS](Running-TIS.md/#running-tis)
+	3. [Running TIS](Loading-TIS.md/#running-tis)
 
 3. [Model and Classifier Settings](Model-Classifier-Settings.md)
 
