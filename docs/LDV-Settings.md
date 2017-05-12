@@ -1,7 +1,7 @@
 ## LDV Settings
 
 ![LDV Preprocessing Options](images/fig23_ldv_preprocessing_options.png) 
-Figure 23
+**Figure 23**
 
 ### Preprocessing Settings
 
@@ -20,7 +20,7 @@ If `Remove Dropouts` is selected a despecking filter is applied to the signal.
 There are two options for a 'Peak Detection Alg`: `Tokotch Method` and 'O’Brien Likelihood`. The Tokotch Method is based on an algorithm created by Dr.Verne Leininger and Jose Corona in 2015. while the O’Brien Likelihood method uses an iterative sliding window approach. 
 
 ![LDV Segmentation Options](images/fig24_ldv_segmentation_options.png) 
-Figure 24 
+**Figure 24** 
 
 ### Segmentation Settings 
  
@@ -40,7 +40,7 @@ Peak to Peak allows the user to define how many samples will be taken as the hea
 The third LDV submenu is `Feature Set Options`. 
 
 ![LDV Spectrogram Options](images/fig25_ldv_spectrogram_options.png) 
-Figure 25 
+**Figure 25** 
 
 It is assumed that the LDV signal is a measurement of velocity. By checking `Use Displacement Signal`, the signal is converted to displacement using integration. 
 
