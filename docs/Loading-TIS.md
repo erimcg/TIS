@@ -40,7 +40,7 @@ To run TIS, type `TIS` into the Command Window and press `Enter` as shown in **F
 ![Start TIS](images/fig6_start_tis.png)
 **Figure 6**
 
-Matlab will open the TIS Graphical User Interface (GUI) as shown in **Figure 7**. The TIS GUI displays a menu bar (A) across the top of the screen that allows the user to change various settings. Below the menu bar are options to calculate and classify the feature sets (B).
+Matlab will open the TIS Graphical User Interface (GUI) as shown in **Figure 7**. The TIS GUI displays a menu bar (A) across the top of the screen that allows the user to change various settings in the left panel below the menu bar. The gray panel to the right of the green panel is used to display plots and classification results.  At the bottom of the screen is a button panel that allows the user to calculate feature sets and classify the feature sets (B).
  
 ![TIS GUI](images/fig7_tis_gui.png) 
 **Figure 7**
